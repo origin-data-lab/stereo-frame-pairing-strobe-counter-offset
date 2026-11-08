@@ -1,0 +1,49 @@
+{
+ "note": 18,
+ "claims": [
+  {
+   "id": "C1",
+   "claim": "Left\u2212right counter offset",
+   "status": "Verified (automated)",
+   "evidence": [
+    "assets/tables/per_file_timing.csv",
+    "assets/tables/session_summary.csv",
+    "analysis/odl_analyze.py",
+    "analysis/figs.py"
+   ]
+  },
+  {
+   "id": "C2",
+   "claim": "Error if paired by counter",
+   "status": "Verified (automated)",
+   "evidence": [
+    "assets/tables/per_file_timing.csv",
+    "assets/tables/session_summary.csv",
+    "analysis/odl_analyze.py",
+    "analysis/figs.py"
+   ]
+  },
+  {
+   "id": "C3",
+   "claim": "Exposure-start difference, paired by order",
+   "status": "Verified (automated)",
+   "evidence": [
+    "assets/tables/per_file_timing.csv",
+    "assets/tables/session_summary.csv",
+    "analysis/odl_analyze.py",
+    "analysis/figs.py"
+   ]
+  },
+  {
+   "id": "C4",
+   "claim": "Files with equal L/R frame counts",
+   "status": "Verified (automated)",
+   "evidence": [
+    "assets/tables/per_file_timing.csv",
+    "assets/tables/session_summary.csv",
+    "analysis/odl_analyze.py",
+    "analysis/figs.py"
+   ]
+  }
+ ]
+}

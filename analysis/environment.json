@@ -1,0 +1,11 @@
+{
+ "python": "3.9+",
+ "packages": [
+  "numpy",
+  "opencv-python-headless",
+  "pyyaml",
+  "imageio-ffmpeg",
+  "matplotlib"
+ ],
+ "compute": "AWS EC2 c7i.xlarge (spot), Amazon Linux 2023"
+}

@@ -1,0 +1,5 @@
+ODL-derived measurements and figures: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Manufacturer-provided calibration files and raw video/IMU recordings are NOT licensed or distributed here.
+Unless stated otherwise in the note, the analysis is preliminary; independent human sample verification has not been performed.
